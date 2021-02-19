@@ -9,7 +9,7 @@ package gcmd
 
 import (
 	"fmt"
-	"github.com/gogf/gf/internal/json"
+	"github.com/kotlin2018/pkg/json"
 	"os"
 	"strings"
 
